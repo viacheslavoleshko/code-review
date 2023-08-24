@@ -1,0 +1,13 @@
+{
+    "name": "Terralab",
+    "alias": "terralab",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Terralab\\Providers\\TerralabServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
